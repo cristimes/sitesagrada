@@ -26,7 +26,7 @@ body {
     color: rgba(11, 3, 3, 0.592);
     text-decoration: none;
 }
-.menu {
+.index {
     background-image: linear-gradient(#884b40,#F6eee3);
     color: rgb(25, 25, 25);
     display:flex;
@@ -34,26 +34,26 @@ body {
     align-items: center;
     padding: 24px 0;
     }
-.menu-titulo {
+.index-titulo {
     padding: 24px 0;
     }
-.menu-conteudo{
+.index-conteudo{
     width: 35%;
     }
-.menu-imagem{
+.index-imagem{
     width:25%;
     }
-.menu-item {
+.index-item {
     color: rgb(25, 25, 25);
     display:flex;
     justify-content: center;
     align-items: center;
     padding: 24px;
     }
-.menu-div{
+.index-div{
     margin: 20px;
 }
-.menu-lista-item{
+.index-lista-item{
     display: inline-block;
     margin: 0 30px;
     padding: 10px 0;
